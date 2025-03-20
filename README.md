@@ -108,9 +108,47 @@ ROC-AUC Score
 ├── 📄 requirements.txt                   # List of required libraries
 
 └── 📁 datasets                           # Folder for dataset files
-
-    ├── 📄 train.csv
     
+    ├── 📄 train.csv
     └── 📄 test.csv
+
+
+
+## **⚡️ Technologies and Libraries Used**
+Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+
+Visualization Tools: Matplotlib, Seaborn, Plotly
+
+Modeling Techniques: Logistic Regression, GridSearchCV
+
+Data Handling: Pandas and NumPy
+
+##**📬 Contact Information**
+For any inquiries, reach out to:
+
+📧 Email: khaalidshaikk@gmail.com
+
+🔗 LinkedIn: Khalid Shaik
+
+💻 GitHub: khalid-shaik
+
+## **🤝 Contributing**
+Contributions are welcome! Feel free to:
+
+Fork the repository
+
+Raise issues or suggest improvements
+
+Submit pull requests to enhance project performance
+
+## **📝 Future Improvements**
+Experiment with other classification models (SVM, Random Forest, XGBoost)
+
+Improve feature engineering and hyperparameter tuning
+
+Deploy the model using Flask/Django (Optional for future versions)
+
+
+
 
 
