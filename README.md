@@ -72,3 +72,39 @@ Confusion Matrix: Visualizing classification results.
 
 ROC-AUC Curve: Measuring model’s ability to distinguish between classes.
 
+
+## **📸 Visualizations and Insights**
+
+Correlation Heatmap: Identifying correlations between features.
+
+Age Distribution Plot: Comparing survival rates by age groups.
+
+Class and Gender Analysis: Higher survival rate observed in women and higher-class passengers.
+
+ROC Curve & Confusion Matrix: Visualizing model performance.
+
+##**📈 Model Summary**
+
+Algorithm: Logistic Regression
+
+Accuracy Achieved: ~X% on test data
+
+Evaluation Metrics:
+
+Confusion Matrix
+
+Precision, Recall, and F1-Score
+
+ROC-AUC Score
+
+## **🛠️ Project Structure**
+📁 Titanic-Survival-Prediction
+│
+├── 📄 Titanic_Survival_Prediction.ipynb  # Main Colab notebook with complete code
+├── 📄 README.md                          # Project documentation
+├── 📄 requirements.txt                   # List of required libraries
+└── 📁 datasets                           # Folder for dataset files
+    ├── 📄 train.csv
+    └── 📄 test.csv
+
+
