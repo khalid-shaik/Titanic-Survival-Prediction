@@ -100,11 +100,17 @@ ROC-AUC Score
 ## **🛠️ Project Structure**
 📁 Titanic-Survival-Prediction
 │
+
 ├── 📄 Titanic_Survival_Prediction.ipynb  # Main Colab notebook with complete code
+
 ├── 📄 README.md                          # Project documentation
+
 ├── 📄 requirements.txt                   # List of required libraries
+
 └── 📁 datasets                           # Folder for dataset files
+
     ├── 📄 train.csv
+    
     └── 📄 test.csv
 
 
