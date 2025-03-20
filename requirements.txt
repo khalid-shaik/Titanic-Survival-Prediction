@@ -1,0 +1,12 @@
+# Core Libraries
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.1
+matplotlib==3.6.2
+seaborn==0.12.2
+
+# For Hyperparameter Tuning
+joblib==1.2.0
+
+# Optional Libraries (if used in EDA or visualization)
+plotly==5.9.0
