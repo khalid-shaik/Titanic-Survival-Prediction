@@ -123,12 +123,13 @@ Modeling Techniques: Logistic Regression, GridSearchCV
 
 Data Handling: Pandas and NumPy
 
-##**📬 Contact Information**
+## **📬 Contact Information**  
+
 For any inquiries, reach out to:
 
 📧 Email: khaalidshaikk@gmail.com
 
-🔗 LinkedIn: Khalid Shaik
+🔗 LinkedIn: https://www.linkedin.com/in/khalidshaik09/
 
 💻 GitHub: khalid-shaik
 
