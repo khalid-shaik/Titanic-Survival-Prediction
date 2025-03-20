@@ -4,6 +4,7 @@ This project leverages Data Science techniques and Machine Learning models to pr
 
 ## **📚 Project Overview**
 Goal: Predict whether a passenger survived the Titanic disaster using historical data.
+
 Algorithm Used: Logistic Regression (Classification Model)
 Dataset: Kaggle Titanic Dataset
 Objective: Identify patterns in passenger profiles that influenced survival.
