@@ -143,11 +143,11 @@ Raise issues or suggest improvements
 Submit pull requests to enhance project performance
 
 ## **📝 Future Improvements**
-Experiment with other classification models (SVM, Random Forest, XGBoost)
+Experimenting with other classification models (SVM, Random Forest, XGBoost)
 
-Improve feature engineering and hyperparameter tuning
+Improving feature engineering and hyperparameter tuning
 
-Deploy the model using Flask/Django (Optional for future versions)
+Deploying the model using Flask/Django (Optional for future versions)
 
 
 
